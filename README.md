@@ -1,0 +1,5 @@
+- Hi, I’m @ryderrhoads
+- I’m interested in fintech and investment banking
+- I’m currently learning Computer Science and Finance at the University of Arizona
+- I’m looking to collaborate on any Java or Python projeccts
+- How to reach me by email @ ryderrhoads@arizona.edu
