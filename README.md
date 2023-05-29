@@ -1,4 +1,4 @@
 - Hi, I’m @ryderrhoads
 - I’m studying Computer Science and Economics at the University of Arizona
-- I’m love to collaborate on any Java or Python projects
+- I’d love to collaborate on any Java or Python projects
 - You can reach me by email @ ryderrhoads@arizona.edu
