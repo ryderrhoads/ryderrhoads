@@ -1,5 +1,5 @@
 - Hi, I’m @ryderrhoads
-- I love data of all kinds, especially alternative 
-- I’m studying Computer Science and Economics at the University of Arizona
+- I love data
+- I’m studying Economics with a minor is CS at the University of Arizona
 - I’d love to collaborate on any Web or Python projects
 - You can reach me by email @ ryderrhoads@arizona.edu
