@@ -1,5 +1,6 @@
 - Hi, I’m @ryderrhoads
-- I love data
-- I’m studying Economics with a minor is CS at the University of Arizona
-- I’d love to collaborate on any Web or Python projects
+- I love prediction markets and all kinds of data!
+- Please reach out if you would like to collaborate on any projects!
+- I try to keep most of my code on Kalshi and Polymarket private
+- Happy to talk strategy and learn how others interpret data in markets
 - You can reach me by email @ ryder.rhoads@rady.ucsd.edu
